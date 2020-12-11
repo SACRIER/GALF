@@ -1,0 +1,15 @@
+C:\Users\grazi\projects\Csharp\poo\GALF\bin\Debug\GALF.exe.config
+C:\Users\grazi\projects\Csharp\poo\GALF\bin\Debug\GALF.exe
+C:\Users\grazi\projects\Csharp\poo\GALF\bin\Debug\GALF.pdb
+C:\Users\grazi\projects\Csharp\poo\GALF\obj\Debug\GALF.csprojAssemblyReference.cache
+C:\Users\grazi\projects\Csharp\poo\GALF\obj\Debug\GALF.Form1.resources
+C:\Users\grazi\projects\Csharp\poo\GALF\obj\Debug\GALF.Properties.Resources.resources
+C:\Users\grazi\projects\Csharp\poo\GALF\obj\Debug\GALF.csproj.GenerateResource.cache
+C:\Users\grazi\projects\Csharp\poo\GALF\obj\Debug\GALF.csproj.CoreCompileInputs.cache
+C:\Users\grazi\projects\Csharp\poo\GALF\obj\Debug\GALF.exe
+C:\Users\grazi\projects\Csharp\poo\GALF\obj\Debug\GALF.pdb
+C:\Users\grazi\projects\Csharp\poo\GALF\obj\Debug\GALF.Login.resources
+C:\Users\grazi\projects\Csharp\poo\GALF\obj\Debug\GALF.Pedido.resources
+C:\Users\grazi\projects\Csharp\poo\GALF\obj\Debug\GALF.Pagamento.resources
+C:\Users\grazi\projects\Csharp\poo\GALF\bin\Debug\MySql.Data.DLL
+C:\Users\grazi\projects\Csharp\poo\GALF\obj\Debug\GALF.csproj.CopyComplete

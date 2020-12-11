@@ -1,1 +1,1 @@
-# GALF
+O projeto GALF é uma aplicação para gerenciamento de lanchonetes construido utilizando C# com Forms e Mysql como banco de dados
